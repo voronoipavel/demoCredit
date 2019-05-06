@@ -7,3 +7,9 @@ https://habr.com/ru/post/203318/
 https://github.com/kekcogen/spring-boot-starter
 
 https://github.com/RameshMF/spring-boot-tutorial
+
+
+https://github.com/keumtae-kim/spring-boot-react-blog
+
+
+https://github.com/callicoder/spring-security-react-ant-design-polls-app

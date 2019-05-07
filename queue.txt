@@ -13,3 +13,5 @@ https://github.com/keumtae-kim/spring-boot-react-blog
 
 
 https://github.com/callicoder/spring-security-react-ant-design-polls-app
+
+https://github.com/OlexandrHorch/JavaDeveloperFinalProject

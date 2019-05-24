@@ -49,3 +49,9 @@ https://github.com/topics/lottery?l=java&o=desc&s=
 
 
 https://github.com/rogueai/lottery
+
+***************************
+https://github.com/danielsequeira/lottery
+
+https://github.com/vahapgencdal/lottery
+https://github.com/danielsequeira/lottery/blob/master/lottery-backend/src/main/java/lottery/backend/controller/ContenderController.java

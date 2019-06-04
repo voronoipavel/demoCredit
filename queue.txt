@@ -55,3 +55,9 @@ https://github.com/danielsequeira/lottery
 
 https://github.com/vahapgencdal/lottery
 https://github.com/danielsequeira/lottery/blob/master/lottery-backend/src/main/java/lottery/backend/controller/ContenderController.java
+
+----------------------------------------------------
+https://github.com/peter-dev/spring-boot-lottery-system-api
+
+
+https://github.com/moyacamilo/PredictionLottery

@@ -61,3 +61,6 @@ https://github.com/peter-dev/spring-boot-lottery-system-api
 
 
 https://github.com/moyacamilo/PredictionLottery
+
+
+https://github.com/shi0288/lottery
